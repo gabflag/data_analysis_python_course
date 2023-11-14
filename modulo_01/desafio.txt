@@ -1,0 +1,21 @@
+'''
+Como desenvolvedor em uma empresa de consultoria de software, você foi alocado em um projeto para uma empresa de telecomunicações. 
+Essa empresa tem interesse em habilitar um novo serviço, mas antes precisa entender qual a disponibilidade dos satélites autorizados 
+a operar no Brasil. Para a primeira sprint (período de 15 dias de trabalho), você foi encarregado de apresentar, 
+uma análise preliminar da situação dos satélites.
+
+Nessa primeira entrega, você deve apresentar a comparação da quantidade de satélites que são brasileiros, dos que são estrangeiros. 
+Dentre os satélites brasileiros, você deve discriminar a quantidade de cada operadora comercial, bem como a quantidade de satélites 
+operando em cada banda. As mesmas análises devem ser feitas para os satélites que pertencem a outros países.
+
+Onde esses dados podem ser encontrados? Qual a melhor forma de apresentar os resultados, basta levar os números? Qual biblioteca pode ser usada para resolver o desafio?
+'''
+
+# Onde esses dados podem ser encontrados? 
+    # https://www.ucsusa.org/resources/satellite-database
+
+# Qual a disponibilidade dos satélites autorizados a operar no Brasil? 
+# Apresentar a comparação da quantidade de satélites que são brasileiros, dos que são estrangeiros
+
+# Dentre os satélites brasileiros, a quantidade de cada operadora comercial, bem como a quantidade de satélites operando em cada banda.
+# As mesmas análises devem ser feitas para os satélites que pertencem a outros países.
